@@ -1,4 +1,4 @@
-# Zadanie Domowe – Klasy Abstrakcyjne i Dziedziczenie w Java
+# Kolokwium Java
 
 ## Ważne Uwagi
 
